@@ -39,9 +39,7 @@ enum class MyCityScreen(@StringRes val title: Int) {
     Final(title= R.string.finaliza)
 }
 
-/**
- * Composable that displays the topBar and displays back button if back navigation is possible.
- */
+
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun CityBar(
@@ -53,7 +51,7 @@ fun CityBar(
     TopAppBar(
         title = { Text(stringResource(currentScreen)) },
         colors = TopAppBarDefaults.mediumTopAppBarColors(
-            containerColor = MaterialTheme.colorScheme.primaryContainer
+            containerColor = MaterialTheme.colorScheme.tertiaryContainer
         ),
         modifier = modifier,
         navigationIcon = {
@@ -70,7 +68,6 @@ fun CityBar(
 }
 
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun MyCityApp(
     windowSize:WindowWidthSizeClass,
