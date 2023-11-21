@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MyCity</string>
+    <string name="ciudad">Madrid</string>
+    <string name="cafeterias">Cafeterías</string>
+    <string name="parques">Parques</string>
+    <string name="CentrosCom">Centros Comerciales</string>
+    <string name="back_button">Back</string>
+    <string name="opciones">Opciones</string>
+    <string name="tipos">Tipo</string>
+    <string name="Recursos">Recurso</string>
+    <string name="finaliza">Descripcion</string>
+    <string name="Lore_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    <string name="pumpumcafe">Pum Pum Café</string>
+    <string name="verde">Il Tavolo Verde</string>
+    <string name="retiro">El Retiro</string>
+    <string name="breogan">Parque de Breogán</string>
+    <string name="gp2">Gran Plaza 2</string>
+    <string name="vaguada">La Vaguada</string>
+
+</resources>
